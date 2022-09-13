@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">GetWifiInfoApplication</string>
+    <string name="first">1번방식</string>
+    <string name="second">2번방식</string>
 </resources>
